@@ -1,6 +1,4 @@
-🔗 Project-1
+# Project-1
+ Attendance System Through Cloud Infrastructure as a Service
 
-Attendance System Through Cloud Infrastructureas a Service
-
-Our Static Website Link:
-https://attendsystem.z29.web.core.windows.net/
+Our Static Website Link: https://attendsystem.z29.web.core.windows.net/
